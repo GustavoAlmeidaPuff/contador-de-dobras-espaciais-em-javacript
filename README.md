@@ -1,0 +1,1 @@
+## esse é o começo dos meus estudos em java script
